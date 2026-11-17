@@ -2,7 +2,7 @@
  "hologram": 1,
  "root": "c223bd4a2f6a56783c1fbdb1b1f671fa61c3150ecf320c82796ea5763043a696",
  "n": 73,
- "storage": 68,
+ "storage": 36,
  "r": 3,
  "self": {
   "name": "ekonomika",
@@ -306,10 +306,34 @@
  ],
  "flesh": [
   {
+   "name": "domovoy-ritual",
+   "desc": "Ритуал дома как конечный автомат: поработал → сделал → убрал за собой. S0-покой гарантирован. FSM: устав + исполняемый автомат (stdlib-only).",
+   "lang": "Python",
+   "cluster": "SWARM"
+  },
+  {
+   "name": "edinyy-svod",
+   "desc": "ЕДИНЫЙ СВОД — Конституция Хозяина 4.2: основной закон стенда «ЕДИНЫЙ ХОЗЯИН», 98 статей, XIX глав, стенд singulyar_host v3.2. РЕВО В ОСНОВЕ ВСЕГО · REVE=РЕВО",
+   "lang": "Python",
+   "cluster": "HUB"
+  },
+  {
    "name": "os-forge",
    "desc": "OS-FORGE v0.1.1 — самодостаточный автономный батник: карта среды (железо+ОС по фактам) → решение → сеть (репозиторий пунктов) → сборка актуальной ОС → готовый ISO с манифестом. Windows (cmd+PowerShell",
    "lang": "Python",
    "cluster": "OS"
+  },
+  {
+   "name": "polymath-atlas",
+   "desc": "Operational System Atlas - Lean 4 Gestalt audit: 7 modules, zero sorry, verbatim imperial session archive",
+   "lang": "Python",
+   "cluster": ""
+  },
+  {
+   "name": "universal-agent",
+   "desc": "UniversalAgent (TsUA) - single-brain holistic agent: one LLM core, closed perception-action loop, four-layer memory, sandboxed tools. Pure stdlib.",
+   "lang": "Python",
+   "cluster": "AGENTS"
   }
  ]
 }
