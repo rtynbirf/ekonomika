@@ -1,14 +1,14 @@
 # КНИГА ЭКОНОМИКИ
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Штандарт ekonomika: обсидиан и расплавленное золото, кузня rtynbirf" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/banner.png" width="100%" alt="Штандарт ekonomika: обсидиан и расплавленное золото, кузня rtynbirf" />
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза ekonomika: мастерская МИНАРД · ПОТОК, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/repo-muse.svg" width="100%" alt="Муза ekonomika: мастерская МИНАРД · ПОТОК, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской МИНАРД · ПОТОК" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/forge-divider.svg" width="62%" alt="делитель мастерской МИНАРД · ПОТОК" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
