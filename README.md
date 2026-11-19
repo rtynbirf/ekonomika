@@ -1,3 +1,9 @@
+<div align="center">
+
+<a href="https://github.com/rtynbirf/ekonomika"><img src="banner.png" width="100%" alt="ekonomika — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
 # КНИГА ЭКОНОМИКИ
 
 <div align="center">
@@ -19,7 +25,7 @@
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 332 | 27 | 94 | 2026-11-19 | 0 |
+| 330 | 25 | 95 | 2026-11-19 | 0 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
 
 
