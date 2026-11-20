@@ -37,8 +37,8 @@
 
 | Глава | Источник | Файлов | Коммитов в ориг. | Снимок |
 |---|---|---|---|---|
-| [red-thread-debt-audit](glavy/red-thread-debt-audit/) | [оригинал](https://github.com/rtynbirf/red-thread-debt-audit) | 212 | 48 | `9b72ba0` |
-| [rent-mechanism-q43](glavy/rent-mechanism-q43/) | [оригинал](https://github.com/rtynbirf/rent-mechanism-q43) | 87 | 45 | `139d44d` |
+| [red-thread-debt-audit](https://github.com/rtynbirf/ekonomika/tree/main/glavy/red-thread-debt-audit) | [оригинал](https://github.com/rtynbirf/red-thread-debt-audit) | 212 | 48 | `9b72ba0` |
+| [rent-mechanism-q43](https://github.com/rtynbirf/ekonomika/tree/main/glavy/rent-mechanism-q43) | [оригинал](https://github.com/rtynbirf/rent-mechanism-q43) | 87 | 45 | `139d44d` |
 
 ## О чём эта книга
 
