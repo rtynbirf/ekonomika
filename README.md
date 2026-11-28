@@ -4,12 +4,6 @@
 
 </div>
 
-# КНИГА ЭКОНОМИКИ
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/banner.png" width="100%" alt="Штандарт ekonomika: обсидиан и расплавленное золото, кузня rtynbirf" />
-</div>
-
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/repo-muse.svg" width="100%" alt="Муза ekonomika: мастерская МИНАРД · ПОТОК, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
@@ -20,13 +14,33 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы ekonomika в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы ekonomika №5 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 342 | 28 | 157 | 2026-11-28 | 0 |
+| 340 | 27 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# ekonomika
+
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/.github/social-preview.png" alt="ekonomika" width="100%"></p>
+
+<div align="center">
+
+<a href="https://github.com/rtynbirf/ekonomika"><img src="banner.png" width="100%" alt="ekonomika — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+# КНИГА ЭКОНОМИКИ
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/ekonomika@main/banner.png" width="100%" alt="Штандарт ekonomika: обсидиан и расплавленное золото, кузня rtynbirf" />
+</div>
+
+
+
+
 
 
 
